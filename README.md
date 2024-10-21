@@ -25,7 +25,7 @@ them for staying active.**
 
 ## Demo
 
-1. Login via Email, so in the app you put your email, hit login button, we using Magic Link, so it sends link you email to confirm email address, that link directs you back to the app and you in the app. Once after signing you don't need to type your email again to reopen the app.
+1. Login via Email, so in the app you put your email, hit login button, we using Magic Link, so it sends link to your email to confirm email address, that link directs you back to the app and you in the app. Once after signing you don't need to type your email again to reopen the app.
 2. There is 2 main pages: Run and Activity, in the Run section you can track your activity via GPS, it measures your distance and pace in the real time, and activity time, and in the Activity section you can see your recent runs.
 3. As a backend and database system, we used Supabase, alternative to Firebase.
 <img width="1710" alt="Screenshot 2024-10-22 at 01 35 56" src="https://github.com/user-attachments/assets/4ba4d3ea-07c3-43ab-a348-aefb7bcd5cef">
