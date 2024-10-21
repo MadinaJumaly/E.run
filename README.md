@@ -28,7 +28,7 @@ them for staying active.**
 1. Login via Email, so in the app you put your email, hit login button, we using Magic Link, so it sends link you email to confirm email address, that link directs you back to the app and you in the app. Once after signing you don't need to type your email again to reopen the app.
 2. There is 2 main pages: Run and Activity, in the Run section you can track your activity via GPS, it measures your distance and pace in the real time, and activity time, and in the Activity section you can see your recent runs.
 
-![1729539673957](image/README(1)/1729539673957.png)
+![1729539673957](image/README/1729539673957.png)
 
 ## Getting Started
 
