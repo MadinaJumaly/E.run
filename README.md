@@ -1,4 +1,4 @@
-#Decentralized run-to-earn platform (Mobile app). E.run
+##Decentralized run-to-earn platform (Mobile app). E.run
 
 Objective:
 To develop a decentralized platform that incentivizes users to engage in physical activities,
@@ -7,9 +7,9 @@ tracking and accelerometer data from mobile devices to monitor user activity and
 them for staying active.
 
 Motivation:
-● Encourage physical fitness by providing a financial incentive for users to stay active.
-● Utilize blockchain technology for transparency and fairness in reward distribution.
-● Foster a community around health and fitness with gamified experiences.
+- Encourage physical fitness by providing a financial incentive for users to stay active.
+- Utilize blockchain technology for transparency and fairness in reward distribution.
+- Foster a community around health and fitness with gamified experiences.
 
 ## Core Features:
 
@@ -21,9 +21,6 @@ distance in real-time using GPS and phone sensors to reward activity.
 distance covered, and fitness improvements over time.
 
 ## Demo Screenshots
-
-![Screenshot 1](image.png)
-![Screenshot 2](image-1.png)
 
 ## Usage
 
