@@ -25,6 +25,13 @@ struct E_runTabView: View {
                     
                     Text("Activity")
                 }
+            ProfileView()
+                .tag(1)
+                .tabItem {
+                    Image(systemName: "person.crop.circle.fill")
+                    
+                    Text("Profile")
+                }
         }
     }
 }
